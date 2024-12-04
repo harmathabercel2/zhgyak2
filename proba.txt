@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hello world
 
 dev ág
+=======
+Hello world
+dev ág módosult
+>>>>>>> Test
